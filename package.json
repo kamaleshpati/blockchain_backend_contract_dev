@@ -1,0 +1,21 @@
+{
+  "name": "ecom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@koa/cors": "^3.3.0",
+    "@koa/router": "^10.1.1",
+    "@openzeppelin/contracts": "^4.5.0",
+    "ethers": "^5.6.2",
+    "koa": "^2.13.4",
+    "nedb": "^1.8.0",
+    "truffle": "^5.5.9"
+  }
+}
